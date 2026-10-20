@@ -1,16 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="BORIM KIM AI developer portfolio">
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#091632"/><stop offset=".6" stop-color="#112A5B"/><stop offset="1" stop-color="#1656A4"/></linearGradient><linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#59D5FF"/><stop offset="1" stop-color="#87A9FF"/></linearGradient><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#9BCBFF" opacity=".14"/></pattern></defs>
-<rect width="1200" height="300" rx="22" fill="url(#bg)"/><rect width="1200" height="300" rx="22" fill="url(#dots)"/>
-<circle cx="1060" cy="12" r="190" fill="#2C78F2" opacity=".12"/><circle cx="1060" cy="12" r="132" fill="none" stroke="#77C9FF" opacity=".22"/><circle cx="1060" cy="12" r="94" fill="none" stroke="#77C9FF" opacity=".12"/>
-<text x="64" y="62" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="3" font-weight="700" fill="#7DD7FF">AI · RAG · BACKEND · RELIABILITY</text>
-<text x="60" y="137" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="800" fill="#FFFFFF">BORIM KIM</text>
-<rect x="64" y="157" rx="3" width="112" height="5" fill="url(#glow)"/>
-<text x="63" y="204" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#D8E8FF">Build with context.</text>
-<text x="63" y="240" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#75D6FF">Validate with evidence.</text>
-<g font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="middle">
-<path d="M790 145H838 M945 145H993" stroke="#83D3FF" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M830 139L840 145L830 151 M985 139L995 145L985 151" stroke="#83D3FF" fill="none" stroke-width="2"/>
-<rect x="695" y="106" width="98" height="78" rx="16" fill="#234D91" stroke="#4AA8FC"/><text x="744" y="139" fill="#FFFFFF">AI</text><text x="744" y="158" fill="#C6DCFF">Agent</text>
-<rect x="842" y="106" width="110" height="78" rx="16" fill="#234D91" stroke="#4AA8FC"/><text x="897" y="139" fill="#FFFFFF">Policy</text><text x="897" y="158" fill="#C6DCFF">Check</text>
-<rect x="999" y="106" width="125" height="78" rx="16" fill="#2476A6" stroke="#5BE4E6"/><text x="1061" y="139" fill="#FFFFFF">Verified</text><text x="1061" y="158" fill="#D0FCFF">Action</text></g>
-<text x="699" y="215" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="1.5" fill="#B5D1F7">DESIGN → IMPLEMENT → TEST</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Borim Kim AI engineer portfolio">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#F0F6FF"/></linearGradient>
+<linearGradient id="halo" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#DDEBFF"/><stop offset="1" stop-color="#F9FBFF"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="1198" height="298" rx="16" fill="url(#bg)" stroke="#DDE7F1" stroke-width="2"/>
+<path d="M30 256H1170" stroke="#DDE7F1" stroke-width="1"/>
+<circle cx="1025" cy="118" r="183" fill="url(#halo)" opacity=".82"/>
+<circle cx="1030" cy="120" r="124" fill="none" stroke="#C6DAF6" stroke-width="1.5"/>
+<circle cx="1030" cy="120" r="86" fill="none" stroke="#BDD2F3" stroke-width="1.5"/>
+<path d="M813 215C894 188 938 110 1004 128C1064 144 1091 173 1185 114" stroke="#78A7EA" stroke-width="2" fill="none" opacity=".46"/>
+<circle cx="816" cy="214" r="5" fill="#4F8CEB"/><circle cx="1005" cy="128" r="7" fill="#4F8CEB"/><circle cx="1170" cy="126" r="5" fill="#4F8CEB"/>
+<rect x="57" y="42" width="7" height="19" rx="3.5" fill="#2467E8"/>
+<text x="78" y="57" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="3" fill="#5174A8">PORTFOLIO / 2026</text>
+<text x="54" y="145" font-family="Arial, Helvetica, sans-serif" font-size="74" font-weight="800" letter-spacing="-3.4" fill="#152947">BORIM KIM<tspan fill="#3479F6">.</tspan></text>
+<text x="59" y="191" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="500" fill="#425771">AI Service Engineering</text>
+<text x="59" y="222" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#6E839D" letter-spacing=".5">From real-world problems to reliable software.</text>
+<text x="58" y="278" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2" fill="#7B8EA9">BUILD   ·   TEST   ·   IMPROVE</text>
+<g font-family="Arial, Helvetica, sans-serif">
+<rect x="835" y="78" width="258" height="44" rx="12" fill="#FFFFFF" stroke="#D7E5F9"/>
+<circle cx="860" cy="100" r="11" fill="#E8F1FF"/><text x="860" y="105" text-anchor="middle" font-size="12" font-weight="700" fill="#2563D8">1</text><text x="881" y="105" font-size="16" font-weight="700" fill="#244363">Define the problem</text>
+<path d="M860 122v26" stroke="#BCD4F4" stroke-width="2" stroke-dasharray="4 5"/>
+<rect x="835" y="147" width="258" height="44" rx="12" fill="#FFFFFF" stroke="#D7E5F9"/>
+<circle cx="860" cy="169" r="11" fill="#E8F1FF"/><text x="860" y="174" text-anchor="middle" font-size="12" font-weight="700" fill="#2563D8">2</text><text x="881" y="174" font-size="16" font-weight="700" fill="#244363">Build the system</text>
+<path d="M860 191v24" stroke="#BCD4F4" stroke-width="2" stroke-dasharray="4 5"/>
+<rect x="835" y="216" width="258" height="44" rx="12" fill="#F4F8FF" stroke="#B8D1FB"/>
+<circle cx="860" cy="238" r="11" fill="#DCEAFF"/><text x="860" y="243" text-anchor="middle" font-size="12" font-weight="700" fill="#2563D8">3</text><text x="881" y="243" font-size="16" font-weight="700" fill="#1453BC">Verify what matters</text>
+</g></svg>
