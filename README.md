@@ -67,6 +67,7 @@ FastAPI에서 대체편 조회, PostgreSQL 장애 시 모의 데이터 폴백, R
 | [**CloudOps Assistant**](https://github.com/rlaqhfla0917-bit/cloudops-ai-assistant) | 가상 클라우드 장애 시나리오 분류, FastAPI·pytest 및 GitHub Actions |
 | [**Fraud API**](https://github.com/rlaqhfla0917-bit/fraud) | AWS Lambda·API Gateway·DynamoDB 기반 서버리스 신고 API |
 | [**Nutri Deck**](https://github.com/rlaqhfla0917-bit/nutri) | 공공 영양 데이터 기반 React·TypeScript 교육용 카드·보드게임 |
+| [**MarineFlow**](https://github.com/rlaqhfla0917-bit/marine-sample-ai-workflow) | 해양 시료 등록·인계·분석 검증·근거 검색·보고서 초안까지 잇는 Streamlit 기반 업무 워크플로 MVP. **현장 경험을 바탕으로 한 가상 데이터 프로토타입** |
 
 <br/>
 
