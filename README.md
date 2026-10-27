@@ -62,7 +62,7 @@ FastAPI에서 대체편 조회, PostgreSQL 장애 시 모의 데이터 폴백, R
 | Project | What I built |
 | :--- | :--- |
 | [**Seafood Dynamic Pricing API**](https://github.com/rlaqhfla0917-bit/seafood-dynamic-pricing-api) | 신선도·어획량·재고 6개 규칙에 따른 가격 계산, 주문·재고 처리, `409` 예외 및 API 자동 테스트. **발표자료 기반 재구현** |
-| [**Budget Meal Planner**](https://github.com/rlaqhfla0917-bit/budget-meal-planner) | 공공 영양 데이터 정합성 검토, SciPy MILP 기반 예산·영양 조건 최적화 및 테스트. **배포 준비 단계** |
+| [**Budget Meal Planner**](https://github.com/rlaqhfla0917-bit/budget-meal-planner) | 공공 영양 데이터 정합성 검토, SciPy MILP 기반 예산·영양 조건 최적화 및 테스트. **Streamlit Cloud 공개 배포 완료(2026-10-15)** |
 | [**TRACE**](https://github.com/rlaqhfla0917-bit/trace-sample-handover) | 해양 조사 시료 인수인계 업무를 바탕으로 만든 FastAPI·SQLite MVP. **가상 데이터로 재구현** |
 | [**CloudOps Assistant**](https://github.com/rlaqhfla0917-bit/cloudops-ai-assistant) | 가상 클라우드 장애 시나리오 분류, FastAPI·pytest 및 GitHub Actions |
 | [**Fraud API**](https://github.com/rlaqhfla0917-bit/fraud) | AWS Lambda·API Gateway·DynamoDB 기반 서버리스 신고 API |
